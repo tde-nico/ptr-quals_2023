@@ -1,0 +1,3 @@
+strings Qualification-1.6-trivial-release.apk | grep PTR
+
+PTR{SpaceMayBeTheFinalFrontier}

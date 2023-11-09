@@ -1,0 +1,52 @@
+{
+  "projectVersion": 1,
+  "files": [
+    "Qualification-1.6-trivial-release.apk"
+  ],
+  "treeExpansions": [
+    [
+      "org",
+      "Source code",
+      "Qualification-1.6-trivial-release.apk"
+    ],
+    [
+      "esa.ptr23.qualification",
+      "org",
+      "Source code",
+      "Qualification-1.6-trivial-release.apk"
+    ],
+    [
+      "Resources",
+      "Qualification-1.6-trivial-release.apk"
+    ],
+    [
+      "values",
+      "res",
+      "resources.arsc",
+      "Resources",
+      "Qualification-1.6-trivial-release.apk"
+    ]
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "resource",
+      "tabPath": "res/values/strings.xml",
+      "subPath": "",
+      "caret": 2579,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    }
+  ],
+  "activeTab": 0,
+  "cacheDir": "Qualification-1.6-trivial-release.apk.cache",
+  "enableLiveReload": false,
+  "searchHistory": [
+    "PTR{"
+  ]
+}

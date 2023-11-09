@@ -1,0 +1,4 @@
+Java_org_esa_ptr23_qualification_Verifier_checkPasswordByJNI07    .text    00000000000238E0
+
+
+PTR{FlyMeToTheMoon}

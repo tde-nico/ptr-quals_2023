@@ -1,0 +1,59 @@
+{
+  "projectVersion": 1,
+  "files": [
+    "Qualification-1.6-easy-release.apk"
+  ],
+  "treeExpansions": [
+    [
+      "org",
+      "Source code",
+      "Qualification-1.6-easy-release.apk"
+    ],
+    [
+      "esa.ptr23.qualification",
+      "org",
+      "Source code",
+      "Qualification-1.6-easy-release.apk"
+    ]
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "org.esa.ptr23.qualification.Verifier",
+      "subPath": "java",
+      "caret": 8456,
+      "view": {
+        "x": 0,
+        "y": 5433
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "org.esa.ptr23.qualification.MainActivity",
+      "subPath": "java",
+      "caret": 417,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "org.esa.ptr23.qualification.BuildConfig",
+      "subPath": "java",
+      "caret": 91,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    }
+  ],
+  "activeTab": 0,
+  "cacheDir": "Qualification-1.6-easy-release.apk.cache",
+  "enableLiveReload": false,
+  "searchHistory": []
+}
